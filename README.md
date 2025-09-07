@@ -1,5 +1,5 @@
 # photoshopinstaller
-hotoshop Installer 2025 | Yстановщик Photoshop 2025
+Photoshop Installer 2025 | Yстановщик Photoshop 2025
 
 <!-- Баннер сверху -->
 <p align="center">
